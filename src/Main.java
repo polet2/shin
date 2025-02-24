@@ -5,7 +5,10 @@ public class Main{
         "The path less traveled", "Country", "BZEE Music", "Rhythm Divine");
 
         System.out.println("Now playing the song");
-        mbox.playSong(mbox.getSongID(), mbox.getPremiumSong(), 2);
+        mbox.playSong(mbox.getSongID(), mbox.getPremiumSong(), 3);
+        
+
+
         
         // --- TODO
 
